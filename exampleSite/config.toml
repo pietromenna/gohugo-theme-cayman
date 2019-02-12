@@ -1,0 +1,21 @@
+baseurl = ""
+languageCode = "en-us"
+theme = "hugo-theme-cayman"
+paginate = 5
+
+[params]
+  author = "Author name"
+  email = "mailto:author@example.com"
+  description = "A responsive theme for your project on GitHub Pages"
+  contentTypeName = "post"
+  showMenuItems = 2
+
+[languages]
+  [languages.en]
+    title = "Project or Site name"
+    tagline = "A responsive theme for your project on GitHub Pages"
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
